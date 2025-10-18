@@ -1,3 +1,3 @@
-# Normalizacao-de-dados
+Normalizacao-de-dados
 
-[](https://github.com/ViniMarqSouza/Normalizacao-de-dados/blob/main/MODELO.png)
+# [](https://github.com/ViniMarqSouza/Normalizacao-de-dados/blob/main/MODELO.png)
